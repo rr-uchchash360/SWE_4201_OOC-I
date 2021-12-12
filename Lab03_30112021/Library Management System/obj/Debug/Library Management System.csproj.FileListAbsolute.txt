@@ -1,0 +1,6 @@
+C:\Users\uchch\Desktop\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\Library Management System\obj\Debug\Library Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\Library Management System\obj\Debug\Library_Management_System.LibraryManagementSystem.resources
+C:\Users\uchch\Desktop\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\Users\uchch\Desktop\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
