@@ -1,0 +1,11 @@
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.TicTacToe.resources
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\uchch\Desktop\C# Practice\Push\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
