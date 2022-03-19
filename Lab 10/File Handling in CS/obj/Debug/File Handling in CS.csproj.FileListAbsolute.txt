@@ -1,0 +1,11 @@
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\bin\Debug\File Handling in CS.exe.config
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\bin\Debug\File Handling in CS.exe
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\bin\Debug\File Handling in CS.pdb
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File Handling in CS.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File Handling in CS.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File_Handling_in_CS.Properties.Resources.resources
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File Handling in CS.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File Handling in CS.csproj.CoreCompileInputs.cache
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File Handling in CS.exe
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File Handling in CS.pdb
+C:\Users\uchch\Desktop\C# Practice\Push\File Handling in CS\obj\Debug\File_Handling_in_CS.DataBook.resources
