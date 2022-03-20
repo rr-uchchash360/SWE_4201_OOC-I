@@ -1,0 +1,19 @@
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\bin\Debug\Laundry Management System.exe.config
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\bin\Debug\Laundry Management System.exe
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\bin\Debug\Laundry Management System.pdb
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry Management System.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry_Management_System.Form1.resources
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry_Management_System.Properties.Resources.resources
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry Management System.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry Management System.csproj.CoreCompileInputs.cache
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry Management System.exe
+C:\Users\uchch\Desktop\C# Practice\Course 2\Laundry Management System\obj\Debug\Laundry Management System.pdb
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry Management System.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry_Management_System.LaundryManagementSystem.resources
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry_Management_System.Properties.Resources.resources
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry Management System.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry Management System.csproj.CoreCompileInputs.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry Management System.exe
+C:\Users\uchch\Desktop\C# Practice\Push\Laundry Management System\obj\Debug\Laundry Management System.pdb
