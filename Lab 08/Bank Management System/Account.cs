@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Bank_Management_System
+{
+    internal class Account
+    {
+        public string accountNo;
+        public double ammount;
+        public List<Transactions> transactionsList = new List<Transactions>();
+
+
+    }
+}

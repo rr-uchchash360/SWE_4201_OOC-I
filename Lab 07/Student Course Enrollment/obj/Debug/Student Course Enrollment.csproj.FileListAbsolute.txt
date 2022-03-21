@@ -1,0 +1,11 @@
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\bin\Debug\Student Course Enrollment.exe.config
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\bin\Debug\Student Course Enrollment.exe
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\bin\Debug\Student Course Enrollment.pdb
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student_Course_Enrollment.StudentCourseEnrollment.resources
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student_Course_Enrollment.Properties.Resources.resources
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.CoreCompileInputs.cache
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student Course Enrollment.exe
+C:\Users\uchch\Desktop\C# Practice\Push\Student Course Enrollment\obj\Debug\Student Course Enrollment.pdb
