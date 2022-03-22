@@ -1,0 +1,11 @@
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\bin\Debug\University Management System.exe.config
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\bin\Debug\University Management System.exe
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\bin\Debug\University Management System.pdb
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University Management System.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University_Management_System.UniversityManagementSystem.resources
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University Management System.exe
+C:\Users\uchch\Desktop\C# Practice\Push\University Management System\obj\Debug\University Management System.pdb
