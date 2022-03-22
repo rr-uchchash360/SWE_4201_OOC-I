@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b4fcfa9-1450-4db6-afef-76c8fb9af096": {
+      "ProjectGuid": "2b4fcfa9-1450-4db6-afef-76c8fb9af096",
+      "DisplayName": "IUT Result Processing System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

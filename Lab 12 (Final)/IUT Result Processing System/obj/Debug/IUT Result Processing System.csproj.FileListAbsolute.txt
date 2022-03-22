@@ -1,0 +1,11 @@
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\bin\Debug\IUT Result Processing System.exe.config
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\bin\Debug\IUT Result Processing System.exe
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\bin\Debug\IUT Result Processing System.pdb
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.AssemblyReference.cache
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.SuggestedBindingRedirects.cache
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT_Result_Processing_System.IUTResultProcessingSystem.resources
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT_Result_Processing_System.Properties.Resources.resources
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.GenerateResource.cache
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.CoreCompileInputs.cache
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.exe
+C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.pdb
