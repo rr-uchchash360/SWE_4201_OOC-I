@@ -42,7 +42,6 @@
             this.quiz2label = new System.Windows.Forms.Label();
             this.quiz1label = new System.Windows.Forms.Label();
             this.attendanceLabel = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.studentIdBox = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.CSVFile = new System.Windows.Forms.ListBox();
@@ -60,6 +59,7 @@
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.searchButton = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label5
@@ -74,6 +74,7 @@
             this.label5.TabIndex = 39;
             this.label5.Text = "200042167";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label4
             // 
@@ -85,6 +86,7 @@
             this.label4.Size = new System.Drawing.Size(105, 14);
             this.label4.TabIndex = 38;
             this.label4.Text = "Developed by :";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // gradeLabel
             // 
@@ -205,17 +207,6 @@
             this.attendanceLabel.Name = "attendanceLabel";
             this.attendanceLabel.Size = new System.Drawing.Size(0, 14);
             this.attendanceLabel.TabIndex = 26;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(408, 75);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(128, 18);
-            this.label3.TabIndex = 24;
-            this.label3.Text = "Student Id :";
             // 
             // studentIdBox
             // 
@@ -403,11 +394,23 @@
             this.searchButton.UseVisualStyleBackColor = true;
             this.searchButton.Click += new System.EventHandler(this.searchButton_Click);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(408, 75);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(128, 18);
+            this.label3.TabIndex = 53;
+            this.label3.Text = "Student ID :";
+            // 
             // IUTResultProcessingSystem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(747, 457);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.searchButton);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label7);
@@ -435,7 +438,6 @@
             this.Controls.Add(this.quiz2label);
             this.Controls.Add(this.quiz1label);
             this.Controls.Add(this.attendanceLabel);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.studentIdBox);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.CSVFile);
@@ -464,7 +466,6 @@
         private System.Windows.Forms.Label quiz2label;
         private System.Windows.Forms.Label quiz1label;
         private System.Windows.Forms.Label attendanceLabel;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox studentIdBox;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ListBox CSVFile;
@@ -482,6 +483,7 @@
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Button searchButton;
+        private System.Windows.Forms.Label label3;
     }
 }
 
