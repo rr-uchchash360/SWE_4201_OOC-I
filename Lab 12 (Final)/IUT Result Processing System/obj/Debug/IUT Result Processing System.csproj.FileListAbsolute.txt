@@ -9,3 +9,14 @@ C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\I
 C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.CoreCompileInputs.cache
 C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.exe
 C:\Users\uchch\Desktop\C# Practice\Push\IUT Result Processing System\obj\Debug\IUT Result Processing System.pdb
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\bin\Debug\IUT Result Processing System.exe.config
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\bin\Debug\IUT Result Processing System.exe
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\bin\Debug\IUT Result Processing System.pdb
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.AssemblyReference.cache
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.SuggestedBindingRedirects.cache
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT_Result_Processing_System.IUTResultProcessingSystem.resources
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT_Result_Processing_System.Properties.Resources.resources
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.GenerateResource.cache
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.CoreCompileInputs.cache
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT Result Processing System.exe
+I:\IUT\Semester - 02\Lab\SWE 4202\SWE_4201_OOC-I\Lab 12 (Final)\IUT Result Processing System\obj\Debug\IUT Result Processing System.pdb

@@ -59,7 +59,6 @@ namespace IUT_Result_Processing_System
                     double final;
                     double viva;
 
-
                     if (student.attendance != "")
                     {
                         attendance = Convert.ToDouble(student.attendance);
@@ -148,7 +147,6 @@ namespace IUT_Result_Processing_System
                         quizTotal = quiz4 + quiz2 + quiz3;
                     }
 
-
                     totalMarks = attendance + quizTotal + mid + final + viva;
 
                     percentage = (totalMarks / 300.0) * 100;
@@ -201,43 +199,49 @@ namespace IUT_Result_Processing_System
 
                     student.quizTotal = Convert.ToString(quizTotal);
 
-                    Student.Add(studentList);
+                    studentList.Add(student);
                 }
+            }
+
+            for (int i = 0; i < studentList.Count; i++)
+            {
+                CSVFile.Items.Add("Student ID : " + studentList[i].printid()); ;
+                CSVFile.Items.Add("Student Name : " + studentList[i].printname());
+                CSVFile.Items.Add("Percentage : " + studentList[i].printPercent() + "%");
+                CSVFile.Items.Add("Grade : " + studentList[i].printGrade());
+                CSVFile.Items.Add("");
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void searchButton_Click(object sender, EventArgs e)
         {
             string checkID = studentIdBox.Text;
             bool errorExists = true;
-            int i;
-            for (i = 0; i < Student.Count; i++)
-            {
-                if (studentList[i].id == checkID)
-                {
-                    errorExists = false;
-                    break;
-                }
-            }
 
+
+            var student = from std in studentList
+                          where std.id == checkID
+                          select std;
+
+            foreach (var stdnt in student)
+            {
+                attendanceLabel.Text = stdnt.attendance.ToString();
+                quiz1label.Text = stdnt.quiz1.ToString();
+                quiz2label.Text = stdnt.quiz2.ToString();
+                quiz3label.Text = stdnt.quiz3.ToString();
+                quiz4label.Text = stdnt.quiz4.ToString();
+                quizTotal.Text = stdnt.quizTotal.ToString();
+                midLabel.Text = stdnt.mid.ToString();
+                finalLabel.Text = stdnt.final.ToString();
+                vivaLabel.Text = stdnt.viva.ToString();
+                TotalLabel.Text = stdnt.total.ToString();
+                percentLabel.Text = stdnt.percentage.ToString() + " %";
+                gradeLabel.Text = stdnt.grade;
+                errorExists = false;
+            }
             if (errorExists)
             {
                 MessageBox.Show("Student doesn't exist!");
-            }
-            else
-            {
-                attendanceLabel.Text = studentList[i].attendance.ToString();
-                quiz1label.Text = studentList[i].quiz1.ToString();
-                quiz2label.Text = studentList[i].quiz2.ToString();
-                quiz3label.Text = studentList[i].quiz3.ToString();
-                quiz4label.Text = studentList[i].quiz4.ToString();
-                quizTotal.Text = studentList[i].quizTotal.ToString();
-                midLabel.Text = studentList[i].mid.ToString();
-                finalLabel.Text = studentList[i].final.ToString();
-                vivaLabel.Text = studentList[i].viva.ToString();
-                TotalLabel.Text = studentList[i].total.ToString();
-                percentLabel.Text = studentList[i].percentage.ToString() + " %";
-                gradeLabel.Text = studentList[i].grade;
             }
         }
 
@@ -245,5 +249,7 @@ namespace IUT_Result_Processing_System
         {
 
         }
+
+        
     }
 }
